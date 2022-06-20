@@ -2354,8 +2354,8 @@
 
 					#me header > p {
 						position: absolute;
-						left: 0;
-						top: 4.5%;
+						left: 10;
+						top: 7.5%;
 						font-size: 0.99em;
 						letter-spacing: -0.015em;
 						margin-top: 0;
